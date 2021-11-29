@@ -1,0 +1,2 @@
+# hesap-makinesi
+javascript çalışmam
