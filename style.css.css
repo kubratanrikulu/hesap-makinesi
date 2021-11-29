@@ -1,0 +1,39 @@
+body{
+    background-color: darksalmon;
+   
+    display: flex;
+}
+.calculator{
+    
+    margin-left: auto;
+    margin-right: auto;
+    border: solid 2px darkslategray;
+    width: 20%;
+    padding: 1rem;
+    margin-top: 10rem;
+
+  
+}
+.input-num{
+width: 100%;
+border: solid 2px black;
+padding: 1.5rem 0rem 1.5rem 0.5rem;
+font-size: 2rem;
+
+}
+.number{
+    display: flex;
+    margin-top: 2rem;
+   
+}
+.number button{
+ width: calc(100% / 4); 
+ padding: 1.5rem 0rem 1.5rem 0rem;
+ background-color: darkseagreen;
+ font-size: 2rem;
+ margin-left: 5px;
+ border-radius: 1rem;
+}
+.number button:hover{
+    background-color: darkslategray;
+}
