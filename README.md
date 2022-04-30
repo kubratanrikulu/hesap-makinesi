@@ -1,2 +1,2 @@
 # hesap-makinesi
-javascript çalışmam
+Javascript ile basic hesap makinesi
